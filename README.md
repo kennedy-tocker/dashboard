@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
 
-## Development server
+## Como rodar a aplicação
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Rode `ng serve --open` no terminal dentro da pasta que você clonou. Previamente você deve ter o npm instalado na sua máquina além de também ter node.js.
+
+## Escolha de cores.
+
+Fiz esta escolha de cores principalmente por achar aconchegante, para alguém que vive no mercado de trabalho ter uma interface amigável assim é um ponto importante
