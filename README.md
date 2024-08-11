@@ -8,4 +8,4 @@ Rode `ng serve --open` no terminal dentro da pasta que você clonou. Previamente
 
 ## Escolha de cores
 
-Fiz esta escolha de cores principalmente por achar aconchegante, para alguém que vive no mercado de trabalho ter uma interface amigável assim é um ponto importante
+Fiz esta escolha de cores principalmente por achar aconchegante, para alguém que vive no mercado de trabalho ter uma interface amigável assim é um ponto importante.
