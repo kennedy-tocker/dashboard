@@ -1,0 +1,17 @@
+.barra-mae{
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #e5e5e599;
+    margin: 10px;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.227);
+}
+.barra-filha{
+    border-radius: 5px;
+    padding: 8px;
+}
+p{
+    color: white;
+    margin: 0;
+    font-size: 9pt;
+}
