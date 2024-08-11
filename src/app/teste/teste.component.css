@@ -17,15 +17,5 @@
 }
 
 .dashboard-card-content {
-  text-align: left;
-  font-style: Arial;
-}
-
-#relVendas{
-  min-width: 100px;
-  min-height: 80px;
-}
-#relMarcas{
-  min-width: 200px;
-  min-height: 250px;
+  text-align: center;
 }

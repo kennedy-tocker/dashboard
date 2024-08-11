@@ -9,6 +9,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { Observable } from 'rxjs';
 import { map, shareReplay } from 'rxjs/operators';
 import { DashboardComponent } from '../dashboard/dashboard.component';
+import { TesteComponent } from '../teste/teste.component';
 
 @Component({
   selector: 'app-menu',
@@ -22,7 +23,8 @@ import { DashboardComponent } from '../dashboard/dashboard.component';
     MatListModule,
     MatIconModule,
     AsyncPipe,
-    DashboardComponent
+    DashboardComponent,
+    TesteComponent
   ]
 })
 export class MenuComponent {
