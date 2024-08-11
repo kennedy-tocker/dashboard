@@ -1,5 +1,6 @@
-<div *ngFor="let marca of Marcas" class="barra-mae" >
-    <div class="barra-filha"  [style.backgroundColor]="marca.cor" [style.borderColor]="marca.cor" [style.width.%]="marca.width"> 
+<div *ngFor="let marca of Marcas" class="barra-mae">
+    <div class="barra-filha" [style.backgroundColor]="marca.cor"
+        [style.borderColor]="marca.cor" [style.width.%]="marca.width">
         <p>{{marca.nome}} - {{marca.width}}%</p>
     </div>
 </div>

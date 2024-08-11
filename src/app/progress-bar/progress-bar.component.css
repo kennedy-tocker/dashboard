@@ -1,4 +1,4 @@
-.barra-mae{
+.barra-mae {
     border-radius: 10px;
     border-width: 5px;
     border-style: solid;
@@ -6,11 +6,13 @@
     margin: 10px;
     box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.227);
 }
-.barra-filha{
+
+.barra-filha {
     border-radius: 5px;
-    padding: 8px;
+    padding: 3px;
 }
-p{
+
+p {
     color: white;
     margin: 0;
     font-size: 9pt;

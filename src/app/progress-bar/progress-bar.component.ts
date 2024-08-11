@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
   styleUrl: './progress-bar.component.css'
 })
 export class ProgressBarComponent {
-  Marcas: {nome: string, width: number, cor: string}[] = [
+  Marcas: { nome: string, width: number, cor: string }[] = [
     {
       nome: 'Nike',
       width: 23,

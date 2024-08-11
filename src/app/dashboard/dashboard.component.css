@@ -21,11 +21,23 @@
   font-style: Arial;
 }
 
-#relVendas{
-  min-width: 100px;
-  min-height: 80px;
-}
-#relMarcas{
+#chart-container1 {
+  position: relative;
+  margin: auto;
+  min-height: 200px;
   min-width: 200px;
-  min-height: 250px;
+}
+
+#chart-container2 {
+  position: relative;
+  margin: auto;
+  min-height: 150px;
+  min-width: 180px;
+  max-height: 250px;
+  max-width: 250px;
+}
+
+#progress-bar {
+  min-width: 20vh;
+  min-height: 20vh;
 }
